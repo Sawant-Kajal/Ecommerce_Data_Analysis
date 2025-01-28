@@ -40,7 +40,6 @@ This repository contains the implementation for the Zeotap Data Science Assignme
 
 1. **Setup**:
    - Ensure Python and required libraries (e.g., pandas, numpy, scikit-learn, matplotlib) are installed.
-   - Install dependencies using `pip install -r requirements.txt` (if a `requirements.txt` file is provided).
 
 2. **Run Notebooks**:
    - Open and execute the Jupyter notebooks in the following order:
@@ -53,5 +52,4 @@ This repository contains the implementation for the Zeotap Data Science Assignme
 
 ## Contact
 For any queries, feel free to reach out:
-- **Name**: Kajal Sawant
 - **GitHub**: [Sawant-Kajal](https://github.com/Sawant-Kajal)
